@@ -25,7 +25,7 @@ Cost of HSE Candidates = (Advertising + Application Review + Interviews + Lost P
 
 Cost per HSE Candidate = 600 + 600 + 2,000 + 800 = 4,000 USD
 
-# of HSE Candidates per 1k Job Offers = 1,000 x (0.17 * 0.57) = 97 HSE Candidates
+Number of HSE Candidates per 1k Job Offers = 1,000 x (0.17 * 0.57) = 97 HSE Candidates
 
 Cost of HSE Candidates per 1k Job Offers = 4,000 x 97 = 388,000 USD
 

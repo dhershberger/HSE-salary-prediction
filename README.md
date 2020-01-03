@@ -1,5 +1,6 @@
-# HSE-salary-prediction
-HSE Salary Prediction
+# High Salary Expectations
+HSE Salary Prediction Model
+
 The Problem:
 
 The cost of HSE job offer rejections
